@@ -1,0 +1,20 @@
+/home/utx0/Code/hydra/spl-math/target/debug/deps/librustversion-8c3ab9ebc01b5f93.so: /home/utx0/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/lib.rs /home/utx0/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/attr.rs /home/utx0/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/bound.rs /home/utx0/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/constfn.rs /home/utx0/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/date.rs /home/utx0/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/error.rs /home/utx0/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/expand.rs /home/utx0/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/expr.rs /home/utx0/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/iter.rs /home/utx0/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/release.rs /home/utx0/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/time.rs /home/utx0/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/token.rs /home/utx0/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/version.rs /home/utx0/Code/hydra/spl-math/target/debug/build/rustversion-f0c1e7b933a7d6c8/out/version.rs
+
+/home/utx0/Code/hydra/spl-math/target/debug/deps/rustversion-8c3ab9ebc01b5f93.d: /home/utx0/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/lib.rs /home/utx0/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/attr.rs /home/utx0/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/bound.rs /home/utx0/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/constfn.rs /home/utx0/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/date.rs /home/utx0/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/error.rs /home/utx0/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/expand.rs /home/utx0/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/expr.rs /home/utx0/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/iter.rs /home/utx0/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/release.rs /home/utx0/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/time.rs /home/utx0/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/token.rs /home/utx0/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/version.rs /home/utx0/Code/hydra/spl-math/target/debug/build/rustversion-f0c1e7b933a7d6c8/out/version.rs
+
+/home/utx0/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/lib.rs:
+/home/utx0/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/attr.rs:
+/home/utx0/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/bound.rs:
+/home/utx0/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/constfn.rs:
+/home/utx0/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/date.rs:
+/home/utx0/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/error.rs:
+/home/utx0/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/expand.rs:
+/home/utx0/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/expr.rs:
+/home/utx0/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/iter.rs:
+/home/utx0/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/release.rs:
+/home/utx0/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/time.rs:
+/home/utx0/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/token.rs:
+/home/utx0/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/version.rs:
+/home/utx0/Code/hydra/spl-math/target/debug/build/rustversion-f0c1e7b933a7d6c8/out/version.rs:
+
+# env-dep:OUT_DIR=/home/utx0/Code/hydra/spl-math/target/debug/build/rustversion-f0c1e7b933a7d6c8/out
